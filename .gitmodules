@@ -1,0 +1,18 @@
+[submodule "bundle/html5.vim"]
+	path = bundle/html5.vim
+	url = https://github.com/othree/html5.vim.git
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = git@github.com:flazz/vim-colorschemes.git
+[submodule "bundle/ir_black"]
+	path = bundle/ir_black
+	url = https://github.com/twerth/ir_black.git
+[submodule "bundle/scss-syntax"]
+	path = bundle/scss-syntax
+	url = https://github.com/cakebaker/scss-syntax.vim.git
+[submodule "bundle/jQuery"]
+	path = bundle/jQuery
+	url = https://github.com/vim-scripts/jQuery.git
+[submodule "bundle/vim-fetch"]
+	path = bundle/vim-fetch
+	url = https://github.com/mklabs/vim-fetch.git
